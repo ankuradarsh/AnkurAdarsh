@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankur Adarsh</h1>
-<h3 align="center">A passionate and self motivated fullstack developer from India</h3>
+<h3 align="center">A passionate and self-motivated fullstack developer from India</h3>
 
 - 🔭 I’m currently working on [Mr. Tea Man](https://mrteaman.netlify.app/) (live project).
 
